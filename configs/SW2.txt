@@ -1,0 +1,5 @@
+SW2 CONFIGURATION
+=================
+
+Paste the complete SW2 running-config captured from Packet Tracer here.
+(Use the exact output from your device for GitHub archival.)

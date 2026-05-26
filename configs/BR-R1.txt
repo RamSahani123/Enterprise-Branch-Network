@@ -1,0 +1,5 @@
+BR-R1 CONFIGURATION
+====================
+
+Paste the complete BR-R1 running-config captured from Packet Tracer here.
+(Use the exact output from your device for GitHub archival.)
